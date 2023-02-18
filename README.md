@@ -7,3 +7,7 @@
    여기서 train, valid, test 데이터 셋으로 나눔
 3. ./pet_retrain_code/train.py에 있는 sys.path.append에 있는 model과 utils의 경로 수정, train이랑 valid 데이터 프레임 경로 수정 선택한 질병의 label_seq 수정 모델 저장 경로 수정
 
+개발된 모델 :
+   결막염 : https://drive.google.com/file/d/1BuAhoyiQBAvF3oBSAYbNKlLwoe-TOh3K/view?usp=share_link
+
+데이터 공유 : https://drive.google.com/file/d/1d3jCZk0NVOdvYzEK1ATrf23CItl56D5B/view?usp=share_link
