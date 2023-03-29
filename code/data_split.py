@@ -31,3 +31,4 @@ train.to_csv("/mnt/d/project/pet_retina/data/dog_train.csv", index = False)
 val.to_csv("/mnt/d/project/pet_retina/data/dog_val.csv", index = False)
 test.to_csv("/mnt/d/project/pet_retina/data/dog_test.csv", index = False)
 print("Dog Split Complete !")
+
